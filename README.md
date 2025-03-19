@@ -6,7 +6,6 @@ Participants will face challenges requiring proficiency in C programming and Ope
 
 **OpenSSL** is a widely used open-source toolkit that provides robust implementations of cryptographic primitives. It supports a range of symmetric and asymmetric encryption algorithms, secure hashing functions, and digital signatures. 
 
-
 - **`bytewise.c`** - Involves bitwise operations on encrypted data.
 - **`changeDGST.c`** - Deals with modifying or computing message digests (hash functions).
 - **`firstDecryption.c`** - A decryption challenge requiring understanding of symmetric ciphers.
